@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Lokale Konfiguration (nicht teilen)
+.bashrc
+.continue/
+
+# Playwright-Browser-Cache
+.playwright/
